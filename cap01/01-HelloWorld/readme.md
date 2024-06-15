@@ -1,0 +1,1 @@
+Como utilizar javascript em um arquivo html.
